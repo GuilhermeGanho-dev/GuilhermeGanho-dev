@@ -34,11 +34,3 @@ My name is **Guilherme Ganho**
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
-## 📌 Featured Projects
-
-**[expense-tracker](https://github.com/ganhodev/expense-tracker)** — Evolution from a console CRUD app to a full REST API with layered architecture, FluentValidation, and unit tests.
-
-**[Zona Vermelha](https://github.com/ganhodev/ZonaVermelha)** — Crowdsourced crime-mapping API (.NET 10, EF Core, SQLite, SignalR real-time updates, geospatial grouping with the Haversine formula, and background services for zone expiration).
-
----
