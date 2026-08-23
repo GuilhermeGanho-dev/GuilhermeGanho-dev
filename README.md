@@ -26,4 +26,4 @@ Back-end developer · Software Engineering student
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/SEU-USUARIO) · guilhermeganho2208@gmail.com
+[LinkedIn](https://linkedin.com/in/guilhermeganho/) · guilhermeganho2208@gmail.com
