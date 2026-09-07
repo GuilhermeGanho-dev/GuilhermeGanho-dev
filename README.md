@@ -1,6 +1,6 @@
 # Guilherme Ganho Pimentel
 
-Back-end developer · Software Engineering student 
+Full-Stack developer · Software Engineering student 
 
 ---
 
